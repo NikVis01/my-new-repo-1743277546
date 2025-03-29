@@ -1,31 +1,33 @@
 {
   "expo": {
-    "name": "Natively",
-    "slug": "Natively",
+    "name": "Survival Craft",
+    "slug": "survival-craft",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./public/pwa-64x64.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
     "splash": {
-      "image": "./public/pwa-512x512.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1E392A"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.Natively"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./public/pwa-512x512.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.anonymous.Natively"
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1E392A"
+      }
     },
     "web": {
-      "favicon": "./public/pwa-64x64.png",
-      "bundler": "metro"
-    }
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }

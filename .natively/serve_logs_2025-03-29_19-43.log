@@ -1,0 +1,73 @@
+ INFO  Accepting connections at http://localhost:8082
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 Returned 200 in 14 ms
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:43:20 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/29/2025 7:43:38 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:43:38 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:43:39 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:46:03 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:01 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:01 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:01 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:01 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:02 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:02 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:02 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:02 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:03 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:03 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:04 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:07 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:10 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:10 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:11 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:14 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:14 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:15 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:24 PM 172.20.0.1 GET /
+ HTTP  3/29/2025 7:47:24 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 GET /_expo/static/js/web/index-421177d51f5d94a333492a81966f4f24.js
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/29/2025 7:47:25 PM 172.20.0.1 Returned 304 in 1 ms
